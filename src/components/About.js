@@ -33,7 +33,7 @@ function About() {
       >
         <h2 className="text-3xl font-bold mb-2">About Me</h2>
         <p className="text-lg mb-4">
-          Hi! I'm [Your Name], a passionate music producer specializing in creating unique beats and tracks. My journey in music began [X] years ago, and since then, I’ve been dedicated to honing my craft and delivering high-quality sounds that resonate with listeners.
+          Hi! I'm Nitin Lakra, a passionate music producer specializing in creating unique beats and tracks. My journey in music began 2 years ago, and since then, I’ve been dedicated to honing my craft and delivering high-quality sounds that resonate with listeners.
         </p>
         <p className="text-lg">
           Whether you're looking for energetic beats for your next project or smooth tracks to unwind, I've got you covered. Let's collaborate and create something amazing together!
