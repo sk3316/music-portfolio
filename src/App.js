@@ -3,6 +3,7 @@ import Header from "./components/Header";
 import About from "./components/About";
 import BeatGallery from "./components/BeatGallery";
 import ContactForm from "./components/ContactForm";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -19,9 +20,7 @@ function App() {
           <ContactForm />
         </section>
       </main>
-      <footer className="text-center p-4">
-        &copy; 2023 Your Name | Follow me on social media
-      </footer>
+      <Footer/>      
     </div>
   );
 }
