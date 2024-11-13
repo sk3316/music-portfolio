@@ -4,7 +4,7 @@ import { FaFacebook, FaTwitter, FaInstagram, FaYoutube } from "react-icons/fa"; 
 function Footer() {
   return (
     <footer className="bg-gray-900 text-white text-center p-4 mt-8">
-      <p>&copy; 2023 Your Name | Follow me on social media</p>
+      <p>&copy; 2024 Nitin Kalra | Follow me on social media</p>
       <div className="flex justify-center space-x-4 mt-4">
         <a href="https://facebook.com/yourprofile" target="_blank" rel="noopener noreferrer" className="hover:text-blue-500">
           <FaFacebook size={24} />
