@@ -1,11 +1,20 @@
 import React, { useState } from "react";
 
+import Future1 from  "../assets/audio/Future1.mp3";
+import Kawaii from  "../assets/audio/Kawaii.mp3";
+import Marshmello from  "../assets/audio/Marshmello.mp3";
+import scary from  "../assets/audio/scary monster.mp3";
+import Trap from  "../assets/audio/Trap.mp3";
+import TB2 from  "../assets/audio/Trap Beats2 .mp3";
+
+
 const beats = [
-  { id: 1, name: "hello", src: "/path/to/beat1.mp3" },
-  { id: 2, name: "Beat 2", src: "/path/to/beat2.mp3" },
-  { id: 3, name: "Bets", src: "/path/to/beat3.mp3" },
-  { id: 4, name: "Bate 4", src: "/path/to/beat4.mp3" },
-  { id: 5, name: "Btea 5", src: "/path/to/beat5.mp3" },
+  { id: 1, name: "Future1", src: Future1 },
+  { id: 2, name: "Kawaii", src: Kawaii },
+  { id: 3, name: "Marshmello", src: Marshmello },
+  { id: 4, name: "scary", src: scary},
+  { id: 5, name: "Trap", src: Trap },
+  { id: 6, name: "Trap Beats2", src: TB2 },
   // Add more beats as needed
 ];
 
